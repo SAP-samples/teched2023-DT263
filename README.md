@@ -1,6 +1,6 @@
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-DT263)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-DT263)
+![image](https://github.com/SAP-samples/teched2023-DT263/assets/101629403/7d0d1344-93c4-436c-a0a4-38493491be70)[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-DT263)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-DT263)
 
-# Session ID - Session Title
+# DT263 - Focus on Issues in Your Business :Custom Situation Handling Use Cases
 
 ## Description
 
