@@ -8,7 +8,7 @@ This repository contains the material for the SAP TechEd 2022 session called DT2
 
 ## Overview
 
-This session introduces attendees to implement a custom Situation Handling use case in SAP S/4HANA Cloud to notify owner of costcenter that budget is already consumed by 70 Percent
+This session introduces attendees to implement a custom Situation Handling use case in SAP S/4HANA Cloud to Notify project managers about unstaffed resource requests 
 
 ![Alt text](images/sit_overview.png)
 
