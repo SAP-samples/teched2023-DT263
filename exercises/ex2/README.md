@@ -111,7 +111,7 @@ You've now added Trigger object information
 <br>1. Click on 'Add' button
 <br>2. Enter/choose the following information
 
-<br>• Section Source : 'Anchor Object' 
+<br>• Section Source : 'Trigger Object' 
 <br>• Subsections : 'No'
 <br>• Section Label : 'Work Package'
 <br>• Maximum Field Length : '100'
